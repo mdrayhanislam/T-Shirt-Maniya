@@ -1,0 +1,25 @@
+.container-cart{
+    text-align: center;
+    margin: 8px;
+}
+.orange{
+    background-color: orange;
+    padding: 10px;
+}
+.blue{
+    background-color: blue;
+    padding: 10px;
+    color: aliceblue;
+}
+.yellow{
+    background-color: yellow;
+    padding: 10px;
+}
+.purple{
+    background-color: purple;
+    color: aliceblue;
+    padding: 10px;
+}
+.bold{
+    font-weight: bold;
+}
